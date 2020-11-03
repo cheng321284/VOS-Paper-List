@@ -5,6 +5,7 @@ ___
 
 | Publication | Method  | Title | Authors | Affiliation | Links |
 | :--: | :-----: | :---: | :-----: | :---------: | :---: |
+| **NIPS 2020** | **AFB_URR** | Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement | Yongqing Liang et.al |   Louisiana State University  | [[paper]](http://arxiv.org/abs/2010.07958) [[code]](https://github.com/xmlyqing00/AFB-URR)|
 | **ECCV 2020**  | **URVOS** | URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark | Seonguk Seo, , Joon-Young Lee ,Bohyung Han| Seoul National University, Adobe Research | [paper](https://joonyoung-cv.github.io/assets/paper/20_eccv_urvos_unified.pdf)|
 | **ECCV 2020**  | **what to learn** | Learning What to Learn for Video Object Segmentation | Goutam Bhat, et al.| ETH Z¨urich, Link¨oping University| [arxiv](https://arxiv.org/pdf/2003.11540.pdf) |
 | **ECCV 2020**  | **GraphMemVOS** | Video Object Segmentation with Episodic Graph Memory Networks | Xiankai Lu1, BWenguan Wang, Martin Danelljan, Tianfei Zhou, Jianbing Shen, Luc Van Gool | Inception Institute of Artificial Intelligence, ETH Zurich | [[arXiv]](https://arxiv.org/pdf/2007.07020.pdf) [[code]](https://github.com/carrierlxk/GraphMemVOS)
